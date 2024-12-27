@@ -1,4 +1,5 @@
-## Welcome to my profile friend. My name is Celeste. I graduated with a B.S. degree in software development but I love the different facets of technology. My goal is to pursue a masters degree in computer science soon. I am currently learning full-stack development. However, as mentioned earlier my interest does not soley lie in software but in the study of technology 9n general, in saying that, I also have interests in data analysis and cybersecurity. I upload projects, practice assessments, and notes that I deem important. Maybe we can be friends? Happy coding! 👋
+## Welcome,
+<p>My name is Celeste. I love to share my work and view talented folks like you! </p>
 
 <!--
 **celeste-melissa/celeste-melissa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
