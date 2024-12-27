@@ -1,10 +1,9 @@
 ## Hey, I'm Celeste!
-🧠 Software Developer Grad
+🧠 Software Developer Grad</br>
+🎓 Studied Software Development at Western Govenors University </br>
+🧐 Interests: software engineering, data analysis, cybersecurity</br>
 
-🎓 Studied Software Development at
-Western Govenors University 
 
-🧐 Interests: software engineering, data analysis, cybersecurity
 
 <!--
 **celeste-melissa/celeste-melissa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
