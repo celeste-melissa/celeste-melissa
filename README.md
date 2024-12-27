@@ -1,4 +1,5 @@
-## Hey, I'm ![Celeste](https://via.placeholder.com/100x20.png?text=Celeste&color=white&bg=blue)
+![Celeste](https://via.placeholder.com/150/0000FF/FFFFFF?text=Celeste)
+
 
 🧠 Software Developer Grad</br>
 🎓 Studied Software Development at Western Govenors University </br>
