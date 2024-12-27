@@ -1,4 +1,4 @@
-<h1> Hey, I'm Celeste!</h1>h1>
+<h2> Hey, I'm Celeste!</h1>h2>
 🧠 Software Developer Grad</br>
 🎓 Studied Software Development at Western Govenors University </br>
 🧐 Interests: software engineering, data analysis, cybersecurity</br>
