@@ -1,4 +1,5 @@
-<h2>Hey, I'm <span style="color: powderblue;">Celeste</span>!</h2>
+## Hey, I'm ![Celeste](https://via.placeholder.com/100x20.png?text=Celeste&color=blue&bg=white)
+
 🧠 Software Developer Grad</br>
 🎓 Studied Software Development at Western Govenors University </br>
 🧐 Interests: software engineering, data analysis, cybersecurity</br>
