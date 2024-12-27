@@ -1,4 +1,6 @@
 ## Hey, I'm Celeste!
+🧠 Software Developer Grad
+🎓 Studied [Software Development] https://www.wgu.edu/alumni/commencement/e-diploma-verification/validate.html at Western Govenors University
 
 <!--
 **celeste-melissa/celeste-melissa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
