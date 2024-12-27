@@ -1,4 +1,4 @@
-<h2> Hey, I'm style:"color: blue;"Celeste!</h2>
+<h2>Hey, I'm <span style="color: blue;">Celeste</span>!</h2>
 🧠 Software Developer Grad</br>
 🎓 Studied Software Development at Western Govenors University </br>
 🧐 Interests: software engineering, data analysis, cybersecurity</br>
