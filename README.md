@@ -1,4 +1,4 @@
-![Celeste](https://via.placeholder.com/150/0000FF/FFFFFF?text=Celeste)
+## Hi, I'm ![Celeste](https://via.placeholder.com/150x50/0000FF/FFFFFF?text=Celeste)
 
 
 🧠 Software Developer Grad</br>
