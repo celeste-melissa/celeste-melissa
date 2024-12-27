@@ -1,5 +1,5 @@
 ## Welcome,
-<p>My name is Celeste. This is one of my many corners on the internet. </p>
+<p>My name is Celeste. Here lies all my blood, sweat, and tears.... *cough cough*... I mean work. </p>
 
 <!--
 **celeste-melissa/celeste-melissa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
