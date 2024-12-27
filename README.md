@@ -1,7 +1,7 @@
 ## Hey, I'm Celeste!
 🧠 Software Developer Grad
 
-🎓 Studied [Software Development] at
+🎓 Studied Software Development at
 Western Govenors University 
 
 🧐 Interests: software engineering, data analysis, cybersecurity
