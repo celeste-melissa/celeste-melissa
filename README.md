@@ -1,4 +1,5 @@
-## Hi, I'm ![Celeste](https://via.placeholder.com/150x50/0000FF/FFFFFF?text=Celeste)
+## Hi, I'm ![Celeste](https://img.shields.io/badge/Celeste-blue)
+
 
 
 🧠 Software Developer Grad</br>
