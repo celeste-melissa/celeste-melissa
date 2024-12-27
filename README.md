@@ -1,4 +1,4 @@
-<h3> Hi, I'm ![Celeste](https://img.shields.io/badge/Celeste-blue?style=for-the-badge) </h3>
+## Hi, I'm ![Celeste](https://img.shields.io/badge/Celeste-blue?style=for-the-badge) 
 
 
 
