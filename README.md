@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-My name is Celeste. I am a recent software development grad who graduated from Western Governors University with a Bachelor's in software development. I am exploring three fields being software engineering (full stack development) and data science.<br> 
+My name is Celeste. I am a recent software development grad who graduated from Western Governors University with a Bachelor's in software development. I am exploring three fields being software engineering (full stack development), data science, and cybersecurity.<br> 
 
 
 # 💻 Tech Stack:
