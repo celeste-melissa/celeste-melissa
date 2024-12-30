@@ -4,7 +4,7 @@
 # 💫 About Me:
 🧠 Software Development Grad from Western Govenors University<br>
 🧐 Interests: Software Engineering(full stack), data analysis, and cybersecurity<br>
-🕰️ Currently Learning Full-stack development<br>
+🕰️ Currently Learning: Full-stack development<br>
 ✏️ Blog Updates: [Celeste is Building](https://celesteisbuilding.wordpress.com/2024/12/29/facing-2025/)<br>
 
 # 💻 Tech Stack:
