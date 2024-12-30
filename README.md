@@ -1,15 +1,8 @@
 ## Hi, I'm ![Celeste](https://img.shields.io/badge/Celeste-blue?style=for-the-badge) 
 
 
-
-
-🧠 Software Developer Grad</br>
-🎓 Studied Software Development at Western Govenors University </br>
-🧐 Interests: software engineering, data analysis, cybersecurity</br>
-
-
 # 💫 About Me:
-My name is Celeste. I am a recent software development grad who graduated from Western Governors University with a Bachelor's in software development. I am exploring three fields being software engineering (full stack development), data science, and cybersecurity. I<br> 
+My name is Celeste. I am a recent software development grad who graduated from Western Governors University with a Bachelor's in software development. I am exploring three fields being software engineering (full stack development) and data science.<br> 
 
 
 ## 🌐 Socials:
