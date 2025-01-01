@@ -1,5 +1,6 @@
 ## Hi, I'm ![Celeste](https://img.shields.io/badge/Celeste-blue?style=for-the-badge) 
 
+![github](https://github.com/user-attachments/assets/9da38377-7029-49cc-b073-89ff8cb41961)
 
 # 💫 About Me:
 🧠 Software Development Grad from Western Govenors University<br>
